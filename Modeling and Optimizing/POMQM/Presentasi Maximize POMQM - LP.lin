@@ -1,0 +1,32 @@
+9,3,1,0,1000,Maximize Kerupuk Keladi Jayapura LP
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+7,5
+""
+"Produk 1"
+"Produk 2"
+"Produk 3"
+" "
+"RHS"
+"Maximize"
+"Bahan 1"
+"Bahan 2"
+"Bahan 3"
+"Bahan 4"
+"Bahan 5"
+"Bahan 6"
+"Bahan 7"
+5
+Maximize, 0, 19400, 27250, 30320, 0, 0,
+Bahan 1, 0, 700, 600, 500, 1, 200000,
+Bahan 2, 0, 0, 50, 120, 1, 5000,
+Bahan 3, 0, 0, 10, 4, 1, 2000,
+Bahan 4, 0, 0, 0, 12, 1, 250,
+Bahan 5, 0, 0, 5, 3, 1, 2000,
+Bahan 6, 0, 0, 0, 2, 1, 1000,
+Bahan 7, 0, 400, 400, 400, 1, 10000,
+-1, -1
+done
+""
