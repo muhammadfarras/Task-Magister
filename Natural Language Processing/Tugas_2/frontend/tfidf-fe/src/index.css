@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .dataframe {
+    @apply w-full border border-gray-200 rounded-xl overflow-hidden text-sm text-gray-700;
+  }
+
+  .dataframe thead {
+    @apply bg-gray-100 text-gray-700;
+  }
+
+  .dataframe th {
+    @apply px-4 py-2 text-left font-semibold border-b;
+  }
+
+  .dataframe td {
+    @apply px-4 py-2 border-b;
+  }
+
+  .dataframe tbody tr {
+    @apply hover:bg-gray-50 transition;
+  }
+
+  .dataframe tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+  }
+}
